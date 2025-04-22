@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @AthenaBallensky
+@AthenaBallensky (he/they) | Computer Science Major at Cal Poly Pomona | Discovering My Niche in Tech
 <!--- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... --->
 <!--- - 📫 How to reach me ... --->
-- 😄 Pronouns: he/they
 <!--- - ⚡ Fun fact: ... --->
 
 <!---
